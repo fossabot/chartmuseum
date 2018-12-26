@@ -3,6 +3,7 @@
 [![Codefresh build status](https://g.codefresh.io/api/badges/pipeline/chartmuseum/helm%2Fchartmuseum%2Fmaster?type=cf-1)](https://g.codefresh.io/public/accounts/chartmuseum/pipelines/helm/chartmuseum/master)
 [![Go Report Card](https://goreportcard.com/badge/github.com/helm/chartmuseum)](https://goreportcard.com/report/github.com/helm/chartmuseum)
 [![GoDoc](https://godoc.org/github.com/helm/chartmuseum?status.svg)](https://godoc.org/github.com/helm/chartmuseum)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzmaxyan%2Fchartmuseum.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzmaxyan%2Fchartmuseum?ref=badge_shield)
 
 <p align="center"><img align="center" src="logo2.png"></p><br/>
 
@@ -485,3 +486,7 @@ The following subprojects are maintained by *ChartMuseum*:
 
 ## Community
 You can reach the *ChartMuseum* community and developers in the [Kubernetes Slack](https://slack.k8s.io) **#chartmuseum** channel.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzmaxyan%2Fchartmuseum.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzmaxyan%2Fchartmuseum?ref=badge_large)
